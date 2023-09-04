@@ -11985,7 +11985,7 @@
 症 O
 狀 O
 ； O
-經 O-SYMP
+經 O
 由 O
 注 B-SYMP
 射 I-SYMP
@@ -39798,7 +39798,7 @@
 過 O
 通 B-CHEM
 道 I-CHEM
-蛋 i-CHEM
+蛋 I-CHEM
 白 I-CHEM
 進 O
 入 O
@@ -116259,13 +116259,13 @@
 被 O
 稱 O
 作 O
-異 T-TIME
+異 B-TIME
 相 I-TIME
 睡 I-TIME
 眠 I-TIME
 或 O
 者 O
-去 T-TIME
+去 B-TIME
 同 I-TIME
 步 I-TIME
 睡 I-TIME
